@@ -23,6 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
+![captura](./captura.png)
+
 ### Links
 
 - [Live Site URL](https://sonya-c.github.io/NFT-preview-card-component)
